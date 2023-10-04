@@ -42,3 +42,5 @@ make
 
 Follow the instructions here to sign the CLA
 [cla assistant lite](https://github.com/marketplace/actions/cla-assistant-lite#3-signing-the-cla)
+
+See the project admin for details.
