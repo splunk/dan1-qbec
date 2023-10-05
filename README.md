@@ -40,4 +40,5 @@ make
 
 ### Sign the CLA
 
-Follow the steps here [cla-assistant](https://github.com/marketplace/actions/cla-assistant-lite)
+Follow the steps here [cla-assistant](https://github.com/splunk/cla-agreement)
+
