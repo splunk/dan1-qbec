@@ -38,6 +38,6 @@ make install  # installs lint tools etc.
 make
 ```
 
-### Sign the CLA
+### Sign the CLA and the Code of Conduct
 
-Follow the steps here [cla-assistant](https://github.com/marketplace/actions/cla-assistant-lite)
+Follow the steps here [splunk cla-agreement](https://github.com/splunk/cla-agreement)
