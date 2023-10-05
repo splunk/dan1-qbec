@@ -51,3 +51,4 @@ jobs:
           signed-commit-message: "$contributorName has signed the COC in #$pullRequestNo"
           custom-notsigned-prcomment: "All contributors have NOT signed the COC Document"
           custom-allsigned-prcomment: "****CLA Assistant Lite bot**** All contributors have signed the COC  ✍️ ✅"
+          use-dco-flag: true
